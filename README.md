@@ -1,5 +1,5 @@
 # Leave Management Application with Approval Chains & Escalations
-
+#https://github.com/sudharshan200601/leave-management-system
 A modular monolith Spring Boot 3.x & React application for managing employee leave requests. Featuring an explicit approval state machine, multi-level approval chains (Manager -> HR), automatic escalation on timeout, team-level leave conflict detection, and pro-rated annual leave quota calculations for mid-year joiners.
 
 ---
